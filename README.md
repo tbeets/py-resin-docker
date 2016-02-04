@@ -1,4 +1,4 @@
-# Hello World test of resin.io, a Raspberry Pi 2, and a Python/Flask web app for the device
+# Hello World test of resin.io, a Raspberry Pi 2, and a Python/Flask app container
 
 # Pre-Requisites
 
